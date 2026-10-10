@@ -1,0 +1,5 @@
+emp_id,name,department,terminated,slowest_removal_hours,result,reason
+E1131,Marco Tan,Product,2026-04-01 17:47,74.5,EXCEPTION,okta: removed after 74.5 hours; aws: removed after 74.5 hours
+E1152,Sam Patel,Product,2026-04-05 07:07,31.2,EXCEPTION,github: removed after 31.2 hours
+E1068,Omar Hughes,Engineering,2026-04-22 19:29,7.8,EXCEPTION,"aws: no removal record, access may still be active"
+E1292,Dev Ward,Engineering,2026-05-17 20:54,145.2,EXCEPTION,okta: removed after 145.2 hours; aws: removed after 145.2 hours; github: removed after 114.1 hours

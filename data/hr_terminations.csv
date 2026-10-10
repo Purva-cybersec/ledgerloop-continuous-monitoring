@@ -1,0 +1,39 @@
+emp_id,name,department,termination_time
+E1299,Ivan Lopez,Sales,2026-01-01 22:25
+E1117,Wen Tan,Finance,2026-01-05 12:05
+E1096,Marco Reyes,Marketing,2026-01-14 21:26
+E1075,Dev Jensen,People Ops,2026-01-18 20:23
+E1166,Wen Reyes,Marketing,2026-01-19 16:09
+E1159,Sam Hughes,People Ops,2026-01-24 11:36
+E1173,Tara Nguyen,Customer Success,2026-01-26 22:12
+E1264,Priya Lopez,Engineering,2026-02-05 10:09
+E1285,Carla Ward,People Ops,2026-02-06 04:32
+E1145,Priya Mehta,Product,2026-02-17 02:01
+E1082,Aisha Patel,Marketing,2026-02-27 04:54
+E1222,Omar Reyes,Customer Success,2026-03-07 12:35
+E1124,Lena Lopez,Customer Success,2026-03-18 20:41
+E1250,Omar Reyes,Finance,2026-03-24 10:50
+E1201,Rosa Reyes,Marketing,2026-03-29 04:18
+E1131,Marco Tan,Product,2026-04-01 17:47
+E1229,Ivan Patel,Customer Success,2026-04-04 01:45
+E1152,Sam Patel,Product,2026-04-05 07:07
+E1103,Kofi Chen,Product,2026-04-08 22:50
+E1278,Carla Adams,Customer Success,2026-04-16 16:51
+E1068,Omar Hughes,Engineering,2026-04-22 19:29
+E1257,Nia Patel,Engineering,2026-04-29 01:33
+E1215,Aisha Bose,Sales,2026-04-30 08:32
+E1194,Ivan Silva,Customer Success,2026-05-02 22:11
+E1180,Hana Diaz,Marketing,2026-05-08 13:26
+E1138,Nia Reyes,People Ops,2026-05-17 13:26
+E1292,Dev Ward,Engineering,2026-05-17 20:54
+E1061,Rosa Patel,People Ops,2026-05-21 17:36
+E1054,Tara Silva,Customer Success,2026-05-23 14:36
+E1208,Nia Gupta,Finance,2026-06-01 10:22
+E1110,Jia Okafor,Sales,2026-06-09 13:22
+E1047,Uma Diaz,Sales,2026-06-12 21:28
+E1236,Nia Silva,Marketing,2026-06-15 03:54
+E1271,Nia Evans,Customer Success,2026-06-16 20:09
+E1243,Jia Kim,Customer Success,2026-06-16 21:36
+E1089,Marco Ito,Finance,2026-06-19 04:14
+E1187,Victor Patel,Marketing,2026-06-19 04:53
+E1040,Dev Kim,Product,2026-06-23 04:28
