@@ -1,0 +1,23 @@
+name: Terraform compliance scan
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  scan-terraform:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the project files
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install Checkov
+        run: pip install checkov
+
+      - name: Scan the Terraform files
+        run: checkov -d terraform --framework terraform --check CKV_AWS_145,CKV2_AWS_6 --compact
