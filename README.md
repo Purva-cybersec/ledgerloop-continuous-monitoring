@@ -11,6 +11,13 @@ Turning controls into code. This project takes controls from my [SOC 2 Type II s
 | 2 | AI agent that drafts exception write-ups, with a human approving | Planned |
 | 3 | Questionnaire assistant that answers from policy, with citations | Planned |
 
+## About the red X
+
+The check in GitHub Actions is expected to fail. The simulated data contains
+four planted exceptions for control 7, so the pipeline reports a failure, which
+is the control working as designed. A real pipeline would alert the control
+owner in the same way. 
+
 ## Run it
 
 ```
